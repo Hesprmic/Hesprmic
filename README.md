@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Michael Hesprich
 - 👀 I’m interested in gaming, reading, Netflix, sports, and cooking.
 - 🌱 I recently completed a data analytics bootcamp!
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on python and SQL projects to keep practicing and fully master them.
 - 📫 How to reach me hesprich@gmail.com
 
 <!---
